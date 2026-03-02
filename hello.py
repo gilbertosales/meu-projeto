@@ -1,4 +1,8 @@
-print('hello git e vscode giba')
+mensagem = " Hello vscode e git "
+print(mensagem)
+
+
+
 
 
 
