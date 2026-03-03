@@ -1,4 +1,4 @@
-mensagem = " Hello vscode e git "
+mensagem = " Agora no remoto do github giba "
 print(mensagem)
 
 
