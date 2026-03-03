@@ -1,1 +1,1 @@
-mensagem = " Configurando o VSCode no github "
+mensagem = " Configurando o VSCode no github giba "
